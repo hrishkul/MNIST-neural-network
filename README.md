@@ -37,7 +37,7 @@ The network is trained using stochastic gradient descent (SGD) with backpropagat
 
 Results
 After training, the neural network achieves a high classification accuracy of upto 84.5 % on the MNIST training set, demonstrating the power of a simple neural network built from scratch.
-Made 10 predictions on the test data and achieved an accuracy of 100%.
+Made 10 predictions on the test data and achieved a high accuracy.
 Final test result screenshots are attached in the images folder.
 
 
