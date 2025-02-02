@@ -7,9 +7,9 @@ Project Overview
 The goal of this project is to build and train a neural network from scratch to recognize digits in the MNIST dataset. This dataset contains 60,000 training images and 10,000 testing images of handwritten digits (0-9), each 28x28 pixels in size.
 
   Key Features:
-- Neural Network Built From Scratch**: The neural network is implemented using only Python libraries, without relying on deep learning frameworks.
-- Training with Backpropagation**: The network is trained using backpropagation and stochastic gradient descent (SGD) for weight updates.
-- MNIST Dataset**: The network is trained and tested on the MNIST dataset, which is widely used for benchmarking machine learning algorithms.
+- Neural Network Built From Scratch: The neural network is implemented using only Python libraries, without relying on deep learning frameworks.
+- Training with Backpropagation: The network is trained using backpropagation and stochastic gradient descent (SGD) for weight updates.
+- MNIST Dataset: The network is trained and tested on the MNIST dataset, which is widely used for benchmarking machine learning algorithms.
   
 Installation
 
