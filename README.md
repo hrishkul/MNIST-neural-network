@@ -35,16 +35,16 @@ Hidden Layer(s): Customizable number of hidden layers with ReLU activation funct
 Output Layer: 10 output neurons, one for each possible digit (0-9), with a softmax activation function.
 The network is trained using stochastic gradient descent (SGD) with backpropagation to minimize the cross-entropy loss.
 
-Results
+Results:
 After training, the neural network achieves a high classification accuracy of upto 84.5 % on the MNIST training set, demonstrating the power of a simple neural network built from scratch.
 Made 10 predictions on the test data and achieved a high accuracy.
 Final test result screenshots are attached in the images folder.
 
 
-Contributing
+Contributing:
 Feel free to fork this repository and submit pull requests for improvements or suggestions!
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
    
